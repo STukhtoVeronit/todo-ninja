@@ -13,5 +13,8 @@
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
     "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "mongoose": "^5.2.9"
   }
 }
